@@ -15,22 +15,13 @@
 
 ## 🧠 About Me
 
-```python
-class Atharva:
-    name       = "Atharva Amle"
-    university = "Vellore Institute of Technology (2023–2027)"
-    degree     = "B.Tech Computer Science  |  CGPA: 8.3"
-    location   = "India 🇮🇳"
-
-    currently  = ["Building AI-powered full-stack apps",
-                  "Exploring cybersecurity & penetration testing",
-                  "Researching deep learning & computer vision"]
-
-    ask_me_about = ["Machine Learning", "React.js", "Cybersecurity",
-                    "Flask", "PyTorch", "Firebase"]
-
-    fun_fact   = "I turn coffee ☕ into models with 94% F1-scores 🤖"
-```
+- 🎓 &nbsp; B.Tech Computer Science @ **Vellore Institute of Technology** (2023–2027) · CGPA: **8.3**
+- 📍 &nbsp; Based in **India 🇮🇳**
+- 🔭 &nbsp; Currently building **AI-powered full-stack applications**
+- 🛡️ &nbsp; Exploring **cybersecurity & penetration testing**
+- 🧬 &nbsp; Researching **deep learning & computer vision**
+- 💬 &nbsp; Ask me about `Machine Learning` `React.js` `Cybersecurity` `PyTorch` `Firebase`
+- ⚡ &nbsp; Fun fact: I turn coffee ☕ into models with **94% F1-scores** 🤖
 
 ---
 
@@ -110,19 +101,6 @@ class Atharva:
 | 🤖 [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/records/1AU82SP67OD6) | University of Michigan · Coursera | 2026 |
 | ☁️ [AWS Technical Essentials](https://skillbuilder.aws/5a19ee85-93f2-4943-b9fa-94cbc6d4beb3) | Amazon Web Services | 2025 |
 | 🔐 [IBM Cybersecurity Analyst Professional Certificate](https://courses.vit.skillsnetwork.site/certificates/d7f69828261943feaf2548a2e0abf4b2) | IBM | 2025 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Athar2410&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athar2410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athar2410&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=00D9FF&currStreakLabel=00D9FF" width="60%"/>
-
-</div>
 
 ---
 
