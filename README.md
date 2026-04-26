@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Atharva+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Atharva+Amle)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=120&section=header&animation=fadeIn" width="100%"/>
 
