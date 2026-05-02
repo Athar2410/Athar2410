@@ -47,14 +47,14 @@ class Atharva:
 
 ---
 
-### 🛡️ [Network Intrusion Detection System (NIDS)](https://github.com/Athar2410/network-intrusion-detection-system)
-> ML-based intrusion detection system classifying network traffic into attack categories using the NSL-KDD dataset
+### 📄 [Darzi — AI Resume Suite](https://github.com/Athar2410)
+> AI-powered resume optimisation platform that generates ATS-friendly, keyword-optimised resumes
 
-- 🎯 Trained on **125,000+ records** — achieved **98%+ detection accuracy** with **<1% false alarm rate**
-- ⚡ Reduced mean threat-response time by **45%** vs traditional rule-based systems
-- 🌐 Full-stack **Flask** web app containerised with **Docker** for real-time intrusion predictions
+- 👥 Serving **150+ users** with a **98% uptime** record
+- ⏱️ Reduced resume build time by **60%** and application rejection rates by **30%**
+- 🔐 Real-time Firebase sync with secure user authentication
 
-**Stack:** `Python` `Scikit-learn` `Flask` `Docker` `NSL-KDD` `Anomaly Detection`
+**Stack:** `React.js` `Firebase` `Tailwind CSS` `Node.js`
 
 ---
 
