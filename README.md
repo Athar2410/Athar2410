@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Atharva+Amle)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Atharva+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=120&section=header&animation=fadeIn" width="100%"/>
 
@@ -15,13 +15,22 @@
 
 ## 🧠 About Me
 
-- 🎓 &nbsp; B.Tech Computer Science @ **Vellore Institute of Technology** (2023–2027) · CGPA: **8.3**
-- 📍 &nbsp; Based in **India 🇮🇳**
-- 🔭 &nbsp; Currently building **AI-powered full-stack applications**
-- 🛡️ &nbsp; Exploring **cybersecurity & penetration testing**
-- 🧬 &nbsp; Researching **deep learning & computer vision**
-- 💬 &nbsp; Ask me about `Machine Learning` `React.js` `Cybersecurity` `PyTorch` `Firebase`
-- ⚡ &nbsp; Fun fact: I turn coffee ☕ into models with **94% F1-scores** 🤖
+```python
+class Atharva:
+    name       = "Atharva Amle"
+    university = "Vellore Institute of Technology (2023–2027)"
+    degree     = "B.Tech Computer Science  |  CGPA: 8.3"
+    location   = "India 🇮🇳"
+
+    currently  = ["Building AI-powered full-stack apps",
+                  "Exploring cybersecurity & penetration testing",
+                  "Researching deep learning & computer vision"]
+
+    ask_me_about = ["Machine Learning", "React.js", "Cybersecurity",
+                    "Flask", "PyTorch", "Firebase"]
+
+    fun_fact   = "I turn coffee ☕ into models with 94% F1-scores 🤖"
+```
 
 ---
 
@@ -38,14 +47,14 @@
 
 ---
 
-### 📄 [Darzi — AI Resume Suite](https://github.com/Athar2410)
-> AI-powered resume optimisation platform that generates ATS-friendly, keyword-optimised resumes
+### 🛡️ [Network Intrusion Detection System (NIDS)](https://github.com/Athar2410/network-intrusion-detection-system)
+> ML-based intrusion detection system classifying network traffic into attack categories using the NSL-KDD dataset
 
-- 👥 Serving **150+ users** with a **98% uptime** record
-- ⏱️ Reduced resume build time by **60%** and application rejection rates by **30%**
-- 🔐 Real-time Firebase sync with secure user authentication
+- 🎯 Trained on **125,000+ records** — achieved **98%+ detection accuracy** with **<1% false alarm rate**
+- ⚡ Reduced mean threat-response time by **45%** vs traditional rule-based systems
+- 🌐 Full-stack **Flask** web app containerised with **Docker** for real-time intrusion predictions
 
-**Stack:** `React.js` `Firebase` `Tailwind CSS` `Node.js`
+**Stack:** `Python` `Scikit-learn` `Flask` `Docker` `NSL-KDD` `Anomaly Detection`
 
 ---
 
@@ -101,6 +110,19 @@
 | 🤖 [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/records/1AU82SP67OD6) | University of Michigan · Coursera | 2026 |
 | ☁️ [AWS Technical Essentials](https://skillbuilder.aws/5a19ee85-93f2-4943-b9fa-94cbc6d4beb3) | Amazon Web Services | 2025 |
 | 🔐 [IBM Cybersecurity Analyst Professional Certificate](https://courses.vit.skillsnetwork.site/certificates/d7f69828261943feaf2548a2e0abf4b2) | IBM | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Athar2410&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athar2410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athar2410&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=00D9FF&currStreakLabel=00D9FF" width="60%"/>
+
+</div>
 
 ---
 
