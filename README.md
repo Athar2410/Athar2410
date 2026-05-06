@@ -38,14 +38,14 @@
 
 ---
 
-### 🛡️ [Network Intrusion Detection System (NIDS)](https://github.com/Athar2410/network-intrusion-detection-system)
-> ML-based intrusion detection system classifying network traffic into attack categories using the NSL-KDD dataset
+### 🤖 [Multi-Agent SOC](https://github.com/Athar2410/multi-agent-soc)
+> Autonomous 4-agent AI security pipeline built with **CrewAI** & local **LLaMA 3.1 LLM** for end-to-end incident detection, triage, and investigation
 
-- 🎯 Trained on **125,000+ records** — achieved **98%+ detection accuracy** with **<1% false alarm rate**
-- ⚡ Reduced mean threat-response time by **45%** vs traditional rule-based systems
-- 🌐 Full-stack **Flask** web app containerised with **Docker** for real-time intrusion predictions
+- 🧠 Engineered **4 specialized AI agents** (Triage, Hunter, Forensics, Reporter) — reduced mean investigation time from **~30 min to under 2 min**
+- 🔍 Built semantic log search using **ChromaDB vector embeddings** with **MITRE ATT&CK TTP mapping** across 100+ threat patterns
+- 🌐 Deployed **Streamlit HITL analyst dashboard** with AbuseIPDB/VirusTotal enrichment and automated incident report generation
 
-**Stack:** `Python` `Scikit-learn` `Flask` `Docker` `NSL-KDD` `Anomaly Detection`
+**Stack:** `Python` `CrewAI` `ChromaDB` `Streamlit` `Ollama` `LLaMA 3.1` `MITRE ATT&CK` `SQLite`
 
 ---
 
