@@ -49,7 +49,7 @@
 
 ---
 
-### 🦠 [Waterborne Disease Predictor](https://github.com/Athar2410/Water-Borne-Disease-predictor-with-Location-Hotspot-Visualization) &nbsp;🏆 *Health Hack 2025 — Top Placement*
+### 🦠 [Waterborne Disease Predictor](https://github.com/Athar2410/Water-Borne-Disease-predictor-with-Location-Hotspot-Visualization) &nbsp; *Health Hack 2025*
 > Random Forest model + geospatial hotspot visualisations for public health intelligence
 
 - 🎯 **92% classification accuracy** across **10,000+ data points**
